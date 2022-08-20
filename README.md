@@ -1,5 +1,3 @@
-## I am working on creating this profile page. Please come back to see the finished product at a later time. Thank you for your understanding. 
-
 <!--
 **Paulina004/Paulina004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## I am working on creating this profile page. Please come back to see the finished product at a later time. Thank you for your understanding.
 
