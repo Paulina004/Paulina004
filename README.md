@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # Profile
-*I am still working on completing this profile page. Please come back to see the finished product at a later time. Thank you for your understanding.
+*I am still working on completing this profile page. Please come back to see the finished product at a later time. Thank you for your understanding.*
 
 
 
