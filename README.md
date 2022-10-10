@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 
 # Profile
 
-### Name 
+## Name 
 Paulina DeVito
 
-## Bio
-
-Please visit my LinkedIn for more information about me.
-
-
-### Education
+## Education
 - **Full-time, dual degree undergraduate student** at **Florida Atlantic University (FAU)**
     - BS in Computer Engineering
     - BS in Computer Science 
-  
+
+## Bio
+Please visit my LinkedIn for more information about me.
+
 ## GitHub Icon Link
 Icon Credit: https://iconscout.com/illustration/software-engineer-2043023
