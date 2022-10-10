@@ -15,23 +15,19 @@ Here are some ideas to get you started:
 
 
 # Profile
-*I am still working on completing this profile page. Please come back to see the finished product at a later time. Thank you for your understanding.*
-
-
-
-
-## Introduction
-
 
 ### Name 
-Paulina D.
+Paulina DeVito
+
+## Bio
+
+Please visit my LinkedIn for more information about me.
+
 
 ### Education
 - **Full-time, dual degree undergraduate student** at **Florida Atlantic University (FAU)**
     - BS in Computer Engineering
     - BS in Computer Science 
-  
-
   
 ## GitHub Icon Link
 Icon Credit: https://iconscout.com/illustration/software-engineer-2043023
