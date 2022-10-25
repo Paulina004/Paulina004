@@ -32,8 +32,6 @@ Hello, my name is Paulina. I am 19 years old, and I am a student at Florida Atla
 
 I expect to probably continue my education and pursue a master's degree in computer science after I graduate with my two bachelor's degrees. I plan to graduate by the end of Fall 2023. 
 
-I am currently open to exploring potential remote internship opportunities during the Summer 2023 semester.
-
 Thank you for taking the time to view my GitHub page. 
 
 
