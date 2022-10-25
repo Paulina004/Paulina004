@@ -2,7 +2,7 @@
 
 
 ## Education
-- **Full-time, dual degree undergraduate student** at **Florida Atlantic University (FAU)**
+**Full-time, dual degree undergraduate student** at **Florida Atlantic University (FAU)**.
 ### Degrees (In-Progress)
 - BS in Computer Engineering
 - BS in Computer Science 
