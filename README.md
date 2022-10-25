@@ -21,11 +21,15 @@ Paulina DeVito
 
 ## Education
 - **Full-time, dual degree undergraduate student** at **Florida Atlantic University (FAU)**
-    - BS in Computer Engineering
-    - BS in Computer Science 
+### Degrees (In-Progress)
+- BS in Computer Engineering
+- BS in Computer Science 
+### Certificate (In-Progress)
+- Certificate in Data Science
 
 ## Bio
 Please visit my LinkedIn for more information about me.
+www.linkedin.com/in/paulina-devito-fau
 
 ## GitHub Icon Link
 Icon Credit: https://iconscout.com/illustration/software-engineer-2043023
