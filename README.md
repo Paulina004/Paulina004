@@ -14,12 +14,8 @@
 - Cryptographic Engineering
 
 
-## Bio
-Hello, my name is Paulina. I am 20 years old, and I am a student at Florida Atlantic University pursuing a dual degree in computer engineering and computer science. I am also pursuing a certificate in data science, and I am taking graduate courses towards the Joint BS/MS program at FAU.
-
-I expect to probably continue my education and pursue a master's degree in computer science after I graduate with my two bachelor's degrees. I plan to graduate by the end of Fall 2023. 
-
-Thank you for taking the time to view my GitHub page. 
+## LinkedIn (w/ Bio)
+Add here.
 
 
 ## GitHub Icon Link
