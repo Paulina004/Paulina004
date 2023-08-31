@@ -1,6 +1,6 @@
 # Hi, I'm Paulina DeVito. 👋
 
-I'm a student at Florida Atlantic University (FAU) passionate about Python, AI, ML, data science, & iOS development. I am open to work opportunities. Please feel free to connect on LinkedIn and reach out.
+I'm a student at Florida Atlantic University (FAU) passionate about AI (ML/DL), data science, & iOS development. I am open to work opportunities. Please feel free to connect on LinkedIn and reach out.
 
 
 ## Check out my LinkedIn for more about me. 🚀
