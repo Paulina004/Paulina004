@@ -2,31 +2,18 @@
 
 I'm a student at Florida Atlantic University (FAU) passionate about Python, AI, ML, data science, & iOS development. I am open to work opportunities. Please feel free to connect on LinkedIn and reach out.
 
-## Check out my personal website & LinkedIn for more about me. 🚀
 
-[Portfolio Website](Your Portfolio Website Link)
+## Check out my LinkedIn for more about me. 🚀
+
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/paulina-devito-fau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/paulina-devito-fau" height="30" width="40" /></a>
+</p>
 
 
 ### GitHub Organization
 
 - Repositories
   - Each repo ..
-
-
-### FAU Education
-
-- Master of Science in Computer Engineering (Dec 2024)
-- Bachelor of Science in Computer Science (Dec 2023)
-- Bachelor of Science in Computer Engineering (Dec 2023)
-- Certificate in Data Science (Aug 2023)
-- FAU High School
-
-
-### Contact
-
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/paulina-devito-fau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/paulina-devito-fau" height="30" width="40" /></a>
-</p>
 
 
 ### Languages & Tools
