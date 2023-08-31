@@ -6,7 +6,7 @@ I'm a student at Florida Atlantic University (FAU) passionate about AI (ML/DL), 
 ## Check out my LinkedIn for more about me. 🚀
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/paulina-devito-fau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/paulina-devito-fau" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paulina-devito-fau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/paulina-devito-fau" height="30" width="40" /></a>
 </p>
 
 
