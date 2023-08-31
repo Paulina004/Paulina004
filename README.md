@@ -1,22 +1,29 @@
-# Profile
+# Hi, I'm Paulina DeVito. 👋
 
+I'm a student at Florida Atlantic University (FAU) passionate about Python, AI, ML, data science, and iOS development. Welcome to my GitHub profile. 🚀
 
-## Education
-**Full-time, dual degree undergraduate student** at **Florida Atlantic University (FAU)**.
-### Degrees (In-Progress)
-- BS in Computer Engineering
-- BS in Computer Science 
-### Certificate (In-Progress)
+## FAU Education
+
+- Master of Science in Computer Engineering (In-Progress)
+- Bachelor of Science in Computer Science (In-Progress)
+- Bachelor of Science in Computer Engineering (In-Progress)
 - Certificate in Data Science
-### Joint BS/MS Courses (In-Progress)
-- Analysis of Algorithms 
-- Intro to Data Science
-- Cryptographic Engineering
+- FAU High School
+
+## My Projects
+
+Here are some of the projects I've been working on:
 
 
-## LinkedIn (w/ Bio)
-Add here.
+## Skills
 
+- Programming Languages: [List of Languages].
+- Tools & Technologies: [List of Tools and Technologies].
+- [Any Other Categories]
 
-## GitHub Icon Link
-Icon Credit: https://iconscout.com/illustration/software-engineer-2043023
+## Contact
+
+- [LinkedIn](www.linkedin.com/in/paulina-devito-fau)
+- [Portfolio Website](Your Portfolio Website Link)
+
+Feel free to connect on LinkedIn, check out my personal website, and reach out. 👍
