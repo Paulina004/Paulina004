@@ -10,7 +10,6 @@ I'm a student at Florida Atlantic University (FAU) passionate about Python, AI, 
 </p>
 <br></br>
 
-
 ### GitHub Organization
 
 - Repositories
