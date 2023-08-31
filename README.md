@@ -4,10 +4,10 @@ I'm a student at Florida Atlantic University (FAU) passionate about Python, AI, 
 
 ## FAU Education
 
-- Master of Science in Computer Engineering (In-Progress)
-- Bachelor of Science in Computer Science (In-Progress)
-- Bachelor of Science in Computer Engineering (In-Progress)
-- Certificate in Data Science
+- Master of Science in Computer Engineering (Dec 2024)
+- Bachelor of Science in Computer Science (Dec 2023)
+- Bachelor of Science in Computer Engineering (Dec 2023)
+- Certificate in Data Science (Aug 2023)
 - FAU High School
 
 ## My Projects
