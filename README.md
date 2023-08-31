@@ -6,15 +6,6 @@ I'm a student at Florida Atlantic University (FAU) passionate about Python, AI, 
 
 [Portfolio Website](Your Portfolio Website Link)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/paulina-devito-fau)
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="paulina-devito-fau" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/paulina-devito-fau?trk=profile-badge">Paulina DeVito</a></div>
-              
-
-
 
 ### GitHub Organization
 
@@ -29,16 +20,6 @@ I'm a student at Florida Atlantic University (FAU) passionate about Python, AI, 
 - Bachelor of Science in Computer Engineering (Dec 2023)
 - Certificate in Data Science (Aug 2023)
 - FAU High School
-
-### Skills
-
-- Programming Languages: [List of Languages].
-- Tools & Technologies: [List of Tools and Technologies].
-- [Any Other Categories]
-
-### Contact
-
-- [LinkedIn](www.linkedin.com/in/paulina-devito-fau)
 
 
 ### Contact
