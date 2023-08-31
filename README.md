@@ -5,6 +5,7 @@ I'm a student at Florida Atlantic University (FAU) passionate about Python, AI, 
 ## Check out my personal website & LinkedIn for more about me. 🚀
 
 [Portfolio Website](Your Portfolio Website Link)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/paulina-devito-fau)
 
 
