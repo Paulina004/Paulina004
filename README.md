@@ -1,6 +1,6 @@
 # Hi, I'm Paulina. 👋
 
-I'm a graduate research assistant & student at Florida Atlantic University (FAU) passionate about AI (ML/DL), data science, & iOS development. I am open to remote work opportunities. Please feel free to reach out.
+I'm a graduate research assistant & student at Florida Atlantic University (FAU) passionate about AI (ML/DL), data science, & iOS development. 
 
 ### Languages & Tools
 
